@@ -1,0 +1,11 @@
+{
+"enrollment":"SCH-000002",
+"first name":"ROMINA ANDREA",
+"last name":"ALMORA MARIN",
+"level":"PREESCOLAR",
+"degree":"PRIMERO",
+"group":"A",
+"enroll date":"2016-09-01",
+"period":"2016-2017",
+"bird date":"2010-03-08"
+}
